@@ -10,5 +10,7 @@ public class MainBegin {
         System.out.println("Surface (4, 6) =  " + Surface.surf(4,6));
 
         System.out.println("Perimetre (3, 2) = " + Perimetre.perim(3,2));
+
+        System.out.println("Test autobuild");
     }
 }
