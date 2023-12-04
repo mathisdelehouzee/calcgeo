@@ -12,5 +12,6 @@ public class MainBegin {
         System.out.println("Perimetre (3, 2) = " + Perimetre.perim(3,2));
 
         System.out.println("Test autobuild");
+        System.out.println("Second Test autobuild");
     }
 }

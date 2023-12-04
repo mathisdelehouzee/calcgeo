@@ -244,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BE.AC.UMONS in Calculs_Geo">
+  <component name="RunManager">
     <configuration name="AdditionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calculs_Geo" />
       <extension name="coverage">
@@ -308,15 +308,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.BE.AC.UMONS in Calculs_Geo" />
-        <item itemvalue="JUnit.ProduitTest and 1 more" />
-        <item itemvalue="JUnit.All in Calculs_Geo" />
-        <item itemvalue="JUnit.AdditionTest" />
-        <item itemvalue="JUnit.ProduitTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
