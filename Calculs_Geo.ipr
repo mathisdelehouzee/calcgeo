@@ -23,6 +23,7 @@
     <profile version="1.0">
       <option name="myName" value="Project Default" />
     </profile>
+    <option name="USE_PROJECT_PROFILE" value="false" />
     <version value="1.0" />
   </component>
   <component name="MavenProjectsManager">
@@ -32,7 +33,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
       <option name="id" value="central" />

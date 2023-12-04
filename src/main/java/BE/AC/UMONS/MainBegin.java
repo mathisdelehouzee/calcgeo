@@ -13,5 +13,6 @@ public class MainBegin {
 
         System.out.println("Test autobuild");
         System.out.println("Second Test autobuild");
+         System.out.println("Second Test autobuild3");
     }
 }
